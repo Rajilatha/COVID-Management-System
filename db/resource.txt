@@ -1,0 +1,14 @@
+admin
+usermail:admin@gmail.com
+password:admin123
+
+gs
+usermail:gs@gmail.com
+password:gs123456
+
+phi
+usermail:phi@gmail.com
+password:phi12345
+
+user
+user register to create an account
